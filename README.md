@@ -29,17 +29,17 @@ Pada bagian berikut dilakukan pengecekan mengenai pekerjaan, jika pekerjaannya s
 ```
 $pekerjaan = $_POST["pekerjaan"];
   if ($pekerjaan == "Software Engineer") {
-    $gaji = 23000000;
+    $gaji = 20000000;
   } else if ($pekerjaan == "Data Analyst") {
-    $gaji = 25000000;
-  } else if ($pekerjaan == "Design Graphic") {
-    $gaji = 19000000;
-  } else if ($pekerjaan == "Network Engineer") {
-    $gaji = 22000000;
-  } else if ($pekerjaan == "QA Engineer") {
     $gaji = 18000000;
+  } else if ($pekerjaan == "Graphics Designer") {
+    $gaji = 15000000;
+  } else if ($pekerjaan == "Web developer") {
+    $gaji = 14000000;
+  } else if ($pekerjaan == "Network Enginer") {
+    $gaji = 10000000;
   } else if ($pekerjaan == "DevOps Engineer") {
-    $gaji = 23500000;
+    $gaji = 20500000;
   } else {
     $gaji = 0;
   }
@@ -83,6 +83,3 @@ Berikut hasil program yang akan muncul sebelum diinput dan sesudah diinput :
 ![hasi2](./img/Lab2Web%20-%20Google%20Chrome%203_17_2024%2011_06_05%20PM.png)
 
 Selesai terima kasih semoga bermanfaat.
-
-Jika ada yang ditanyakan silahkan tanyakan ke email berikut :
-<adamdwimaulana2605@gmail.com>
