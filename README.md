@@ -31,7 +31,7 @@ $pekerjaan = $_POST["pekerjaan"];
   if ($pekerjaan == "Software Engineer") {
     $gaji = 20000000;
   } else if ($pekerjaan == "Data Analyst") {
-    $gaji = 18000000;
+    $gaji = 20000000;
   } else if ($pekerjaan == "Graphics Designer") {
     $gaji = 15000000;
   } else if ($pekerjaan == "Web developer") {
