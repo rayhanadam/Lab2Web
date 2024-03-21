@@ -15,7 +15,7 @@ Setelah itu buka folder tersebut dengan Visual Studio Code seperti gambar dibawa
 
 selanjutnya buka file **index.php** lalu ikuti kode seperti gambar dibawah :
 
-![kode1](./img/1.png)
+![kode1](./img/php.png)
 > Pembahasan
 Pada kode diatas merupakan kode php dalam menangani formulir yang akan diinput,
 
@@ -63,23 +63,21 @@ lanjut ke kode berikut :
 
 kode berikut merupakan kerangka html yang akan menampilkan formulir dan data yang diinputkan, pada kode ini kita menambahkan style css agar terlihat menarik.
 
-![kode2](./img/2.png)
+![kode2](./img/css.png)
 
-![kode3](./img/3.png)
 
 Selanjutnya tambahkan kode berikut :
 
 pada kode dibawah ini merupakan tag formulir html. sebagai formulir dan hasil dari inputan yang akan diinputkan nanti.
 
-![kode4](./img/4.png)
+![kode4](./img/html.png)
 
 setelah selesai saatnya kita jalankan programnya dengan cara buka xampp control panel lalu start apache, jika sudah buka browser lalu ketikan **`localhost/Lab2Web`**
 
 
 Berikut hasil program yang akan muncul sebelum diinput dan sesudah diinput :
 
-![hasil1](./img/Lab2Web%20-%20Google%20Chrome%203_17_2024%2011_05_29%20PM.png)
 
-![hasi2](./img/Lab2Web%20-%20Google%20Chrome%203_17_2024%2011_06_05%20PM.png)
+![hasi2](./img/hasil.png)
 
 Selesai terima kasih semoga bermanfaat.
