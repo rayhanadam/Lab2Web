@@ -24,7 +24,7 @@ if (isset($_POST['submit'])) {
 `
 ini pengecekan jika ada  post submit yang dikirim maka lakukan perintah berikut, jika tidak ada dia keluar blok kurang kurawal buka / tutup
 
-Pada bagian berikut dilakukan pengecekan mengenai pekerjaan, jika pekerjaannya sebagai  **Software Engineer** maka gaji nya 23000000 dan seterusnya tergantung pada yang diinputkan nanti didalam formulir
+Pada bagian berikut dilakukan pengecekan mengenai pekerjaan, jika pekerjaannya sebagai  **Web Developer** maka gaji nya 14000000 dan seterusnya tergantung pada yang diinputkan nanti didalam formulir
 
 ```
 $pekerjaan = $_POST["pekerjaan"];
