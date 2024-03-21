@@ -39,7 +39,7 @@ $pekerjaan = $_POST["pekerjaan"];
   } else if ($pekerjaan == "Network Enginer") {
     $gaji = 10000000;
   } else if ($pekerjaan == "DevOps Engineer") {
-    $gaji = 20500000;
+    $gaji = 25500000;
   } else {
     $gaji = 0;
   }
